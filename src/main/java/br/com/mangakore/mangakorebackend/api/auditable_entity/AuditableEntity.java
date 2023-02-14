@@ -1,4 +1,4 @@
-package br.com.mangakore.mangakorebackend.api;
+package br.com.mangakore.mangakorebackend.api.auditable_entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
