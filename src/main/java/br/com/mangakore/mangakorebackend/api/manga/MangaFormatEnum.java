@@ -57,7 +57,6 @@ public enum MangaFormatEnum {
     FORMAT_54("23,4 X 31,6 CM"),
     FORMAT_55("26 X 18");
 
-
     private final String description;
 
     MangaFormatEnum(String description) {
