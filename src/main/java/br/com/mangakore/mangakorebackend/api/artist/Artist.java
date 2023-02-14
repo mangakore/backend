@@ -10,6 +10,6 @@ import java.io.Serializable;
 @Embeddable
 public class Artist implements Serializable {
 
-    @Column(name = "author_name")
+    @Column(name = "artist_name")
     private Long name;
 }
